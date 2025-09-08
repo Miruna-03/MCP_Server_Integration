@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "My Local MCP Server",
+      "type": "python",
+      "request": "launch",
+      "program": "C:/Users/Mirunalini/onedrive/Vscode_to_Cursor/mcp_server/mcp_server.py",
+      "console": "integratedTerminal",
+      "env": {}
+    }
+  ]
+}

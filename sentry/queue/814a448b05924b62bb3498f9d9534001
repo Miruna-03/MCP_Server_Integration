@@ -1,0 +1,3 @@
+{"sent_at":"2025-09-03T11:47:41.463Z","sdk":{"name":"sentry.javascript.electron","version":"5.11.0"}}
+{"type":"session"}
+{"sid":"9e32a70b5a3c45a582504ea61d79ab6a","init":true,"started":"2025-09-03T11:47:41.435Z","timestamp":"2025-09-03T11:47:41.463Z","status":"exited","errors":0,"duration":0.028574228286743164,"attrs":{"release":"Claude@0.12.129","environment":"production","user_agent":"Node.js/22"}}

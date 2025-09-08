@@ -1,0 +1,14 @@
+{
+	"scale": 0,
+	"locale": "en-US",
+	"userThemeMode": "system",
+	"mcpServers": {
+		"My Local MCP Server": {
+			"command": "python",
+			"args": [
+				"C:/Users/Mirunalini/onedrive/Vscode_to_Cursor/mcp_server/mcp_server.py"
+			],
+			"env": {}
+		}
+	}
+}

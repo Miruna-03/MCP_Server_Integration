@@ -1,0 +1,21 @@
+# Cache & temporary files
+Cache/
+Crashpad/
+GPUCache/
+Code Cache/
+DawnGraphiteCache/
+DawnWebGPUCache/
+logs/
+
+# Database & system files
+Local Storage/
+Session Storage/
+Network/
+SharedStorage*
+DIPS*
+*.log
+*.db
+*.key
+
+# Node modules
+Claude Extensions/**/node_modules/
