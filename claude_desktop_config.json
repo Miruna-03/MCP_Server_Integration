@@ -10,7 +10,7 @@
     },
     "local-code-processor": {
       "command": "python",
-      "args": ["C:\\Users\\Mirunalini\\OneDrive\\Vscode_to_Cursor\\mcp_server\\mcp_server.py"]
+      "args": ["C:\\Users\\Mirunalini\\AppData\\Roaming\\Claude\\mcp_server.py"]
     }
   }
 }
