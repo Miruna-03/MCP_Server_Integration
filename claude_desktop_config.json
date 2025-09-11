@@ -1,13 +1,4 @@
 {
-    "mcpServers": {
-      "filesystem": {
-        "command": "node",
-        "args": [
-          "C:\\Users\\Mirunalini\\AppData\\Roaming\\Claude\\Claude Extensions\\ant.dir.ant.anthropic.filesystem\\server\\index.js",
-          "C:\\Users\\Mirunalini\\Desktop",
-          "C:\\Users\\Mirunalini\\Downloads"
-        ]
-      }
-    }
+    "mcpServers": {}
   
   }
