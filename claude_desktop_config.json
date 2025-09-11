@@ -1,3 +1,20 @@
 {
-  "mcpServers": {}
+  "mcpServers": {
+    "filesystem": {
+      "command": "node",
+      "args": [
+        "C:\\Users\\Mirunalini\\AppData\\Roaming\\Claude\\Claude Extensions\\ant.dir.ant.anthropic.filesystem\\server\\index.js",
+        "C:\\Users\\Mirunalini\\Desktop",
+        "C:\\Users\\Mirunalini\\Downloads"
+      ]
+    },
+    "local-code-processor": {
+      "command": "python",
+      "args": ["C:\\Users\\Mirunalini\\OneDrive\\Vscode_to_Cursor\\mcp_server\\mcp_server.py"]
+    }
+  }
 }
+
+
+  
+  
